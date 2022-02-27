@@ -3,7 +3,7 @@ export default function Main () {
         <main>
             <h1>Labheshwar</h1>
             <p className = "main--work">MERN Stack Developer</p>
-            <p className = "main--website">mywebsite.com</p>
+            <a href="/" className = "main--website">labheshwar.netlify.com</a>
             
             <div className="main--buttons">
                 <button className = "main--email">
@@ -31,7 +31,7 @@ export default function Main () {
 
             <div className="main--interests">
                 <h1>Interests</h1>
-                <p>Gaming, YouTube, Movies, Music, Travelling, Coffee, Food, Programmng, Riding.</p>
+                <p>Gaming, YouTube, Sci-fi, Music, Travelling, Coffee, Food, Programmng, Technology, Science.</p>
             </div>
         </main>
     )
